@@ -14,5 +14,15 @@ header {
 }
 
 .profile-img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    border: 10px solid #18176e;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
 
+h1, h2, h3, p {
+    margin: 10px 0;
 }
